@@ -14,12 +14,12 @@ _Get started using GitHub in less than an hour._
 </header>
 
 <!--
-  <<< Author notes: Step 2 >>>
+  <<< Author notes: Step 3 >>>
   Start this step by acknowledging the previous step.
   Define terms and link to docs.github.com.
 -->
 
-## Step 2: Commit a file
+## Step 3: Commit a file
 
 _You created a branch! :tada:_
 
